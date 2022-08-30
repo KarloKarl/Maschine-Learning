@@ -1,3 +1,6 @@
-import matplot.pyplot as plt
+import matplot as mp
 import numpy as np
+
+
+
 print("hello")
